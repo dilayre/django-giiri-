@@ -1,1 +1,1 @@
-# django-giiri-
+# django-giris
